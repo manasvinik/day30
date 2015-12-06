@@ -25,7 +25,7 @@ body, html{
 .blob{
 	width: 200px;
 	height: 200px;
-	background-image: url("blob.png");
+	background-image: url("http://i.imgur.com/adj4eXe.png");
 	background-size: cover;
 	  
 	position: absolute;
